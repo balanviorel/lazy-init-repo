@@ -7,7 +7,7 @@ public class MexicanChef implements Chef {
 
     public MexicanChef() {
 
-        System.out.println("MexicanChef constructor"  + getClass().getSimpleName());
+        System.out.println("MexicanChef constructor: "  + getClass().getSimpleName());
     }
 
 

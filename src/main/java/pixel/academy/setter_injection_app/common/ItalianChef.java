@@ -8,7 +8,7 @@ public class ItalianChef implements Chef {
 
     public ItalianChef() {
 
-        System.out.println("ItalianChef constructor" + getClass().getSimpleName());
+        System.out.println("ItalianChef constructor: " + getClass().getSimpleName());
     }
 
     @Override

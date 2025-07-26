@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class TurkishChef implements Chef{
 
     public TurkishChef() {
-        System.out.println("TurkishChef constructor"  + getClass().getSimpleName());
+        System.out.println("TurkishChef constructor: "  + getClass().getSimpleName());
     }
 
     @Override
